@@ -19,5 +19,6 @@ func main() {
     //examples.Structs()
     //examples.Methods()
     //examples.Interfaces()
-    examples.Interfaces2()
+    //examples.Interfaces2()
+    examples.Templates()
 }
