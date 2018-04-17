@@ -86,5 +86,4 @@ func Functions() {
 
 	// recursive function
 	fmt.Println(fact(7))
-
 }
