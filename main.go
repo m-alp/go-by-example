@@ -1,5 +1,7 @@
 package main
 
+import "github.com/go-by-example/examples"
+
 func main() {
     //examples.Hello()
     //examples.Values()
@@ -14,4 +16,8 @@ func main() {
     //examples.Range()
     //examples.Functions()
     //examples.Pointers()
+    //examples.Structs()
+    //examples.Methods()
+    //examples.Interfaces()
+    examples.Interfaces2()
 }
