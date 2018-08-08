@@ -60,6 +60,7 @@ func mapExamples() (map[string]fn) {
         "interfaces": examples.Interfaces,
         "interfaces2": examples.Interfaces2,
         "errors": examples.Errors,
+        "goroutines": examples.GoRoutines,
         "templates": examples.Templates,
     }
 
