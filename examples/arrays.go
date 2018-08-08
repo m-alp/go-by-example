@@ -32,4 +32,8 @@ func Arrays() {
 		}
 	}
 	fmt.Println("2d:", twoD)
+
+	var d [5]int
+	d[`a`] := 1
+
 }
